@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T10:26:24.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="reKCh0Vzl8MTFWxCbp-6" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T10:28:55.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XeHciC_AHwf0W_RfrdSQ" version="20.6.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2333" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2737" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,8 +153,8 @@
         <mxCell id="dbsTAfBsprb9ZXSNt7f_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;exitX=-0.002;exitY=0.026;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#474747;fontColor=#0A0A0D;strokeWidth=2;fontSize=13;jumpSize=6;endSize=8;startSize=8;" parent="1" source="Z1BsBpzhcpCgyARzmuZx-45" target="Z1BsBpzhcpCgyARzmuZx-307" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="782" />
-              <mxPoint x="560" y="625" />
+              <mxPoint x="570" y="782" />
+              <mxPoint x="570" y="625" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -370,12 +370,13 @@
             <mxPoint x="-410" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbsTAfBsprb9ZXSNt7f_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;exitX=1.005;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#474747;fontColor=#0A0A0D;strokeWidth=2;fontSize=13;jumpSize=6;endSize=8;startSize=8;" parent="1" source="Z1BsBpzhcpCgyARzmuZx-171" target="Z1BsBpzhcpCgyARzmuZx-165" edge="1">
+        <mxCell id="dbsTAfBsprb9ZXSNt7f_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;exitX=1.005;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#474747;fontColor=#0A0A0D;strokeWidth=2;fontSize=13;jumpSize=6;endSize=8;startSize=8;" parent="1" source="Z1BsBpzhcpCgyARzmuZx-171" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="190" />
-              <mxPoint x="800" y="1030" />
+              <mxPoint x="540" y="190" />
+              <mxPoint x="540" y="1030" />
             </Array>
+            <mxPoint x="600" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z1BsBpzhcpCgyARzmuZx-171" value="Отделение банка" style="shape=table;startSize=45;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=13;fillColor=#B2C9AB;strokeColor=#474747;fontColor=#0A0A0D;strokeWidth=2;" parent="1" vertex="1">
@@ -1136,8 +1137,8 @@
         <mxCell id="Z1BsBpzhcpCgyARzmuZx-587" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#474747;fontColor=#0A0A0D;strokeWidth=2;jumpSize=6;" parent="1" source="Z1BsBpzhcpCgyARzmuZx-172" target="Z1BsBpzhcpCgyARzmuZx-369" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="230" />
-              <mxPoint x="520" y="775" />
+              <mxPoint x="510" y="230" />
+              <mxPoint x="510" y="775" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1414,9 +1415,9 @@
             <mxPoint x="600" y="820" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-480" y="245" />
-              <mxPoint x="-480" y="1070" />
-              <mxPoint x="560" y="1070" />
-              <mxPoint x="560" y="820" />
+              <mxPoint x="-480" y="1060" />
+              <mxPoint x="510" y="1060" />
+              <mxPoint x="510" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1432,16 +1433,16 @@
         <mxCell id="s5G9YJPdSNpEqPbHZ_q9-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#474747;strokeWidth=2;fontSize=13;fontColor=#0A0A0D;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;fillColor=#B2C9AB;endSize=8;startSize=8;" edge="1" parent="1" source="Z1BsBpzhcpCgyARzmuZx-175" target="Z1BsBpzhcpCgyARzmuZx-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="290" />
-              <mxPoint x="560" y="170" />
+              <mxPoint x="570" y="290" />
+              <mxPoint x="570" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="s5G9YJPdSNpEqPbHZ_q9-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#474747;strokeWidth=2;fontSize=13;fontColor=#0A0A0D;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;fillColor=#B2C9AB;endSize=8;startSize=8;" edge="1" parent="1" source="Z1BsBpzhcpCgyARzmuZx-310" target="Z1BsBpzhcpCgyARzmuZx-239">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="590" />
-              <mxPoint x="560" y="500" />
+              <mxPoint x="570" y="590" />
+              <mxPoint x="570" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1457,8 +1458,7 @@
         <mxCell id="s5G9YJPdSNpEqPbHZ_q9-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#474747;strokeWidth=2;fontSize=13;fontColor=#0A0A0D;startArrow=ERzeroToMany;startFill=0;endArrow=ERmandOne;endFill=0;startSize=8;endSize=8;fillColor=#B2C9AB;" edge="1" parent="1" source="s5G9YJPdSNpEqPbHZ_q9-154" target="Z1BsBpzhcpCgyARzmuZx-482">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-580" y="480" />
-              <mxPoint x="-520" y="480" />
+              <mxPoint x="-520" y="530" />
               <mxPoint x="-520" y="780" />
             </Array>
           </mxGeometry>
